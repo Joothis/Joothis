@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>
-    🔗 <a href="./Resume/resume.pdf">View My Resume</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    🔗 <a href="https://drive.google.com/file/d/10YTaj-aaf9K1xh-9ekeMUdll7335FTFj/view?usp=sharing">View My Resume</a> &nbsp;&nbsp;|&nbsp;&nbsp;
     🌐 <a href="https://joothis.vercel.app">Visit My Portfolio</a>
   </p>
   <p>

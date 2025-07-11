@@ -95,14 +95,4 @@ me.say_hi()
   </p>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Contribution Graph</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joothis/Joothis/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joothis/Joothis/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Joothis/Joothis/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

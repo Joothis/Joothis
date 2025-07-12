@@ -42,7 +42,7 @@ me.say_hi()
       <th width="25%"><h3 align="center">Database</h3></th>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,cs" alt="Languages" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,python" alt="Languages" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Database" /></td>

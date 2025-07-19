@@ -75,7 +75,8 @@ me.say_hi()
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=joothis&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%" />
 </div>
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/joothis/joothis/output/snake.svg" alt="Snake animation" />
 <!-- Connect With Me -->
 <div align="center">
   <h2>🤝 Connect With Me</h2>
